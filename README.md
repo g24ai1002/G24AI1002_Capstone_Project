@@ -1,7 +1,7 @@
 # G24AI1002_Capstone_Project
 Trimester-3 Capstone Project IITJ
 
-Please use this to access the stored data on AWS in the colled data code to upload data to aws cloud
+Please use this to access the stored data on AWS in the colled data code and to upload data to aws cloud
 
 s3 = boto3.client(
     's3',
